@@ -1,0 +1,6 @@
+health-assistant/
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── src/
+    └── health_assistant.py
